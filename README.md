@@ -1,8 +1,5 @@
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/18edc683-347a-469f-9ee6-ccdcf2c4dee6" />
 
-
-Acesse a página: https://eduardocunhadasilva.github.io/web-landing-page/
-
 # 🌐 Landing Page - Diego Sousa
 
 Acesse a página: [🚀 Minha Landing Page](https://eduardocunhadasilva.github.io/web-landing-page/)
