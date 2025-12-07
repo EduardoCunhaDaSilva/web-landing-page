@@ -3,10 +3,6 @@
 
 Acesse a página: https://eduardocunhadasilva.github.io/web-landing-page/
 
-Aqui está uma versão otimizada e mais fluida do seu README, mantendo emojis e deixando o texto mais direto:
-
----
-
 # 🌐 Landing Page - Diego Sousa
 
 Acesse a página: [🚀 Minha Landing Page](https://eduardocunhadasilva.github.io/web-landing-page/)
